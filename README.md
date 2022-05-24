@@ -39,10 +39,10 @@ i.e. y = (3, 6, 6, 3) <br />
 
 # Orginal Image
 
-![Screenshot](VGA.png)
-
-# Edge Detection
-
 ![Screenshot](VGA1.png)
+
+# Ater Sobel Filter
+
+![Screenshot](VGA.png)
 
 
