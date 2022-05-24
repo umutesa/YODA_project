@@ -21,19 +21,19 @@ i.e. y = (3, 6, 6, 3) <br />
 
 # Salt annd Peper Noise 
 
-![Screenshot](saltpepper.png)
+![Screenshot](saltpepper.PNG)
 
 # Speckle Noise
 
-![Screenshot](speckle.png)
+![Screenshot](speckle.PNG)
 
 # Noisy Image :
 
-![Screenshot](speckle.png)
+![Screenshot](speckle.PNG
 
 # Denoise Image :
 
-![Screenshot](orginal_image.png)
+![Screenshot](orginal_image.PNG)
 
 # Edge Detection:Sobel Filter
 
