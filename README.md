@@ -37,10 +37,12 @@ i.e. y = (3, 6, 6, 3) <br />
 
 ### When we want to scan across the X direction of an image for example, we will want to use the following X Direction Kernel to scan for large changes in the gradient. Similarly, when we want to scan across the Y direction of an image, we could also use the following Y Direction Kernel to scan for large gradients as well.
 
-
-
 # Orginal Image
 
+![Screenshot](VGA.png)
+
 # Edge Detection
+
+![Screenshot](VGA1.png)
 
 
