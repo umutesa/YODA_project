@@ -17,11 +17,23 @@ y3 = med(80, 6, 2) = med(2, 6, 80) = 6, <br />
 y4 = med(6, 2, 3) = med(2, 3, 6) = 3, <br />
 i.e. y = (3, 6, 6, 3) <br />
 
-# Adding Noise unsing Matlab:
+# Added Noise unsing Matlab:
+
+# Salt annd Peper Noise 
+
+![Screenshot](saltpepper.png)
+
+# Speckle Noise
+
+![Screenshot](speckle.png)
 
 # Noisy Image :
 
+![Screenshot](speckle.png)
+
 # Denoise Image :
+
+![Screenshot](orginal_image.png)
 
 # Edge Detection:Sobel Filter
 
@@ -41,7 +53,7 @@ i.e. y = (3, 6, 6, 3) <br />
 
 ![Screenshot](VGA1.png)
 
-# Ater Sobel Filter
+# Atter Sobel Filter
 
 ![Screenshot](VGA.png)
 
