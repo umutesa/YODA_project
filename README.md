@@ -29,7 +29,7 @@ i.e. y = (3, 6, 6, 3) <br />
 
 # Noisy Image :
 
-![Screenshot](speckle.PNG
+![Screenshot](speckle.PNG)
 
 # Denoise Image :
 
