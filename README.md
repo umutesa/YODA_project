@@ -33,7 +33,7 @@ i.e. y = (3, 6, 6, 3) <br />
 
 # Denoise Image :
 
-![Screenshot](orginal_image.PNG)
+![Screenshot](original_image.PNG)
 
 # Edge Detection:Sobel Filter
 
