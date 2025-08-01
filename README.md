@@ -7,7 +7,7 @@
  <p style="display: flex; gap: 50px;">
   <img src="https://www.svgrepo.com/show/373947/opencl.svg" alt="OpenCL" width="100" height="120"/>
   <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="OpenCV" width="100" height="120"/>
-  <img src="https://www.svgrepo.com/show/333518/c-plus-plus.svg" alt="C++" width="100" height="120"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8dzZBc0u9kuqE-Fn3vrNDadX-TNzA5vF_gA&s" alt="C++" width="100" height="120"/>
 </p>
 
 
