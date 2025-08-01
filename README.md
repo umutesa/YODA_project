@@ -2,6 +2,14 @@
 
  This is the Formal Git Repository for the YODA Project
 
+ # Tools
+
+ <p style="display: flex; gap: 50px;">
+  <img src="https://www.svgrepo.com/show/373947/opencl.svg" alt="OpenCL" width="100" height="120"/>
+  <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="OpenCV" width="100" height="120"/>
+  <img src="https://www.svgrepo.com/show/333518/c-plus-plus.svg" alt="C++" width="100" height="120"/>
+</p>
+
 
 ## Median Filter:
 
