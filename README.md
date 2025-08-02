@@ -1,4 +1,4 @@
-# YODA PROJECT (Your Own Digital Accerlerator)
+# YODA PROJECT (Your Own Digital Accelerator)
 
  This is the Formal Git Repository for the YODA Project
 
