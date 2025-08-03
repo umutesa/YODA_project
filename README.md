@@ -14,18 +14,7 @@
 ## Median Filter:
 
 
-The median filter is a non-linear digital filtering technique, often used to remove noise from an image or signal. Such noise reduction is a typical pre-processing step to improve the results of later processing (for example, edge detection on an image). Median filtering is very widely used in digital image processing because, under certain conditions, it preserves edges while removing noise (but see the discussion below), also having applications in signal processing.
-
-To demonstrate, using a window size of three with one entry immediately preceding and following each entry, a median filter will be applied to the following simple one-dimensional signal:
-
-x = (2, 3, 80, 6, 2, 3). <br />
-So, the median filtered output signal y will be: <br />
-
-y1 = med(2, 3, 80) = 3, (already 2, 3, and 80 are in the increasing order so no need to arrange them) <br />
-y2 = med(3, 80, 6) = med(3, 6, 80) = 6, (3, 80, and 6 are rearranged to find the median) <br />
-y3 = med(80, 6, 2) = med(2, 6, 80) = 6, <br />
-y4 = med(6, 2, 3) = med(2, 3, 6) = 3, <br />
-i.e. y = (3, 6, 6, 3) <br />
+The median filter is a non-linear digital filtering technique, often used to remove noise from an image or signal. Such noise reduction is a typical pre-processing step to improve the results of later processing (for example, edge detection on an image). Median filtering is very widely used in digital image processing because, under certain conditions, it preserves edges while removing noise
 
 ### Added Noise unsing Matlab:
 
